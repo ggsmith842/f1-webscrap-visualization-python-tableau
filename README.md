@@ -8,6 +8,7 @@ Formula 1 racing is a high-speed, adrenaline fueled sport that has enjoyed large
 While more predominant in Europe, F1's recent purchase in 2016 by American owned Liberty Media has the potential to see an increase in support for the growing U.S. market.
 
 *ref* https://moneyinc.com/sports-that-bring-in-the-most-money-worldwide/
+
 *ref* https://www.forbes.com/sites/csylt/2015/05/31/f1-revenue-accelerates-past-fifas-to-16-2-billion/#44bbb5946d03
 
 ### 1. Problem Definition
