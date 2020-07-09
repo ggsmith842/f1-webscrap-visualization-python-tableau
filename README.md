@@ -1,5 +1,5 @@
-# f1-qualifier-predictor
-Analysis of qualifying times in f1 racing and how they relate to driver wins.
+# F1 70th anniversary overview
+A visual overview of Formula 1 Racing from 1950 to 2020
 
 ## Background
 
@@ -10,7 +10,3 @@ While more predominant in Europe, F1's recent purchase in 2016 by American owned
 *ref* https://moneyinc.com/sports-that-bring-in-the-most-money-worldwide/
 
 *ref* https://www.forbes.com/sites/csylt/2015/05/31/f1-revenue-accelerates-past-fifas-to-16-2-billion/#44bbb5946d03
-
-### 1. Problem Definition
-  **Is there a relationship between qualifying time and winning a race?**
-  Before the actual race begins, each car that will participate must complete qualifying rounds in order to determine grid designation (i.e. the starting place at the beginning of a race). A faster time places a car closer to the front at the start of a race. 
